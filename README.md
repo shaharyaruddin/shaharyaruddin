@@ -13,11 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/yourtwitterprofile" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://github.com/shaharyaruddin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="30" width="40" /></a>
-</p>
-
+  <a href="www.linkedin.com/in/shaharyaruddin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -61,6 +57,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharyaruddin&" alt="shaharyaruddin" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-</p>
