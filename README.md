@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shaharyar Ud din</h1>
-<h3 align="center">An Enthusiastic Frontend Developer from Pakistan</h3>
+<h1 align="center">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Shaharyar+Ud+din;An+Enthusiastic+Frontend+Developer+from+Pakistan&font=Fira%20Code&center=true&width=600&height=45&color=0e75b6&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharyaruddin&label=Profile%20views&color=0e75b6&style=flat" alt="shaharyaruddin" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shaharyaruddin&label=Profile%20views&color=0e75b6&style=flat" alt="shaharyaruddin" /> 
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -13,7 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/shaharyaruddin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shaharyaruddin" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -57,3 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharyaruddin&" alt="shaharyaruddin" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+</p>
