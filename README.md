@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="#" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Shaharyar+Ud+Din;MERN+Stack+Developer+💻;Crafting+Modern+Web+Experiences+🌍;Always+Learning+Something+New+🚀&font=Fira%20Code&center=true&width=600&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Shaharyar+Ud+Din;MERN+Stack+Developer+💻;Crafting+Modern+Web+Experiences+🌍;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+
   </a>
 </h1>
 
